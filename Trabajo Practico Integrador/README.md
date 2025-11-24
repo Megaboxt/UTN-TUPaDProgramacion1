@@ -1,20 +1,10 @@
-# TP Integrador – Gestión de Países (Programación 1)
+# TP Integrador – Gestión de Países Programación 1 - TUPAD - UTN
 
 Este proyecto permite cargar, consultar y administrar información de países usando un archivo CSV como base de datos.  
 Incluye funciones para agregar, actualizar, buscar, filtrar, ordenar y obtener estadísticas.
 
-## 🗂 Contenido del repositorio
-- `TP-Integrador.py` — Código principal del programa  
-- `paises.csv` — Archivo de datos (se genera automáticamente si no existe)  
-- `/docs` — Informe teórico y capturas (opcional para el repositorio)  
-
----
-
-## ▶ Requisitos
-- Python 3.x  
-- No requiere librerías externas
-
----
+## Lenguaje de Programación Utilizado
+- Python 3.13
 
 ## ▶ Ejecución
 1. Descargar o clonar el repositorio.  
